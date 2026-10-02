@@ -9,7 +9,7 @@
 I am a **Computer Science Student** specializing in the intersection of software, hardware, and mathematics. I am passionate about engineering intelligent systems and securing digital infrastructures.
 
 - 🤖 **Core Interests:** Robotics, Cyber Security, and Math-related Computer Science domains.
-- 💻 Check out my latest project: **[Security_Project](https://github.com/AdilKhan19/Security_Project)**
+- 💻 Check out my latest project: **[Security_Project](https://github.com)**
 - 🌐 Portfolio: [adilkhan19.github.io/Portfolio/](https://adilkhan19.github.io/Portfolio/)
 - 📫 How to reach me directly: **m.adilkhan@gmail.com**
 
@@ -17,8 +17,8 @@ I am a **Computer Science Student** specializing in the intersection of software
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) |
-| **Tools & Platforms** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
+| **Languages** | <img src="https://shields.io" alt="Python" /> |
+| **Tools & Platforms** | <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> |
 
 ## 🌐 Connect With Me
 
@@ -26,13 +26,15 @@ I am a **Computer Science Student** specializing in the intersection of software
   <a href="https://linkedin.com/ln/adil-khan-214199335" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/adil.khan.722134" target="_blank">
+  <a href="https://www.facebook.com/adil.khan.722134" target="_blank">
     <img src="https://shields.io" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/adilkhan._.1?stkn=MWVuejBwNDFrcjk%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/adilkhan._.1?stkn=MWVuejBwNDFrcjk%3D%3D&utm_source=qr" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
 </p>
 
 ## 📊 My GitHub Contributions
-![](https://herokuapp.com)
+<p align="center">
+  <img src="https://herokuapp.com" alt="Adil's Streak Stats" />
+</p>
