@@ -10,7 +10,6 @@ I am a **Computer Science Student** specializing in the intersection of software
 - 🛠️ **Current Focus:** Building automated security scanners and monitoring systems.
 - 📁 **Featured Projects:** Check out my work on **[Security_Project](https://github.com)** and **[AetherJaw_Scanner](https://github.com)**.
 - 🌐 **Portfolio:** Explore my full portfolio site at **[adilkhan19.github.io/Portfolio/](https://adilkhan19.github.io/Portfolio/)**.
-- 📬 **Reach Me:** Drop a line at **m.adilkhan@gmail.com**.
 
 ---
 
